@@ -65,6 +65,9 @@ python app.py
    - Enable/disable histogram and underwater contrast enhancement
    - Click "Process" to generate the depth visualization
 
+     
+![output_depth_video_1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/6991658d-b7b6-40a8-a104-8e1eaec3c817) 
+
 
 ## 🎨 Available Colormaps
 
